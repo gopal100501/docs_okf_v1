@@ -1,0 +1,465 @@
+{
+  "version": 1,
+  "steps": {
+    "step-01.jpg": {
+      "zoom": {
+        "x": 0.377516804125485,
+        "y": 0.2716563895896629
+      },
+      "level": 2,
+      "highlight": {
+        "x": 0.2774049387682204,
+        "y": 0.24696503156497154,
+        "width": 0.20022373071452915,
+        "height": 0.04938271604938271
+      },
+      "pixelRatio": 1.875
+    },
+    "step-02.jpg": {
+      "zoom": {
+        "x": 0.49187177619678063,
+        "y": 0.500000047095028
+      },
+      "level": 2,
+      "highlight": {
+        "x": 0,
+        "y": 0,
+        "width": 0.9837435523935613,
+        "height": 1
+      },
+      "pixelRatio": 1.875
+    },
+    "step-03.jpg": {
+      "zoom": {
+        "x": 0.12086596691635097,
+        "y": 0.11111111994142886
+      },
+      "level": 2,
+      "highlight": {
+        "x": 0.10176175179364164,
+        "y": 0.08024691946712541,
+        "width": 0.03820843024541868,
+        "height": 0.06172840094860689
+      },
+      "pixelRatio": 1.875
+    },
+    "step-04.jpg": {
+      "zoom": {
+        "x": 0.8249067961502928,
+        "y": 0.03971193602055679
+      },
+      "level": 2,
+      "highlight": {
+        "x": 0.8092468398262723,
+        "y": 0.01810699627723223,
+        "width": 0.03131991264804097,
+        "height": 0.04320987948664912
+      },
+      "pixelRatio": 1.875
+    }
+  },
+  "replay": [
+    {
+      "index": 1,
+      "action": "click",
+      "url": "https://tanstack.com/start/latest/docs/framework/react/examples/start-basic",
+      "description": "Click the **CodeSandbox** button to open the example in CodeSandbox.",
+      "elementMeta": {
+        "tag": "button",
+        "cssSelector": ":root > :nth-child(2) > :nth-child(4) > :nth-child(1) > :nth-child(1) > :nth-child(3) > :nth-child(2) > :nth-child(1) > :nth-child(1) > :nth-child(1) > :nth-child(1) > :nth-child(2) > :nth-child(2)",
+        "textContent": null,
+        "ariaLabel": null,
+        "placeholder": null,
+        "altText": null,
+        "name": null,
+        "role": "button",
+        "href": null,
+        "inputType": null,
+        "dataTestId": null,
+        "rect": {
+          "x": 248.00001525878906,
+          "y": 160.03334045410156,
+          "width": 179.00001525878906,
+          "height": 32
+        },
+        "devicePixelRatio": 1.875,
+        "viewport": {
+          "width": 894,
+          "height": 648
+        },
+        "composedPath": [
+          {
+            "tag": "button",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 1
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "h1",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 1
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 2
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 3
+          },
+          {
+            "tag": "body",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "html",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          }
+        ]
+      },
+      "screenshot": "docs/guides/assets/create-a-basic-react-tanstack-start-project/step-01.jpg",
+      "highlight": {
+        "x": 0.2774049387682204,
+        "y": 0.24696503156497154,
+        "width": 0.20022373071452915,
+        "height": 0.04938271604938271
+      }
+    },
+    {
+      "index": 2,
+      "action": "click",
+      "url": "https://tanstack.com/start/latest/docs/framework/react/examples/start-basic",
+      "description": "Click the **Close dialog** button.",
+      "elementMeta": {
+        "tag": "button",
+        "cssSelector": ":root > ",
+        "textContent": null,
+        "ariaLabel": "Close dialog",
+        "placeholder": null,
+        "altText": null,
+        "name": null,
+        "role": "button",
+        "href": null,
+        "inputType": null,
+        "dataTestId": null,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 879.4667358398438,
+          "height": 648.0000610351562
+        },
+        "devicePixelRatio": 1.875,
+        "viewport": {
+          "width": 894,
+          "height": 648
+        },
+        "composedPath": [
+          {
+            "tag": "button",
+            "role": null,
+            "name": "Close dialog",
+            "attrs": {
+              "aria-label": "Close dialog"
+            },
+            "isShadowHost": false,
+            "nthOfType": 0
+          }
+        ]
+      },
+      "screenshot": "docs/guides/assets/create-a-basic-react-tanstack-start-project/step-02.jpg",
+      "highlight": {
+        "x": 0,
+        "y": 0,
+        "width": 0.9837435523935613,
+        "height": 1
+      }
+    },
+    {
+      "index": 3,
+      "action": "click",
+      "url": "https://tanstack.com/start/latest/docs/framework/react/examples/start-basic",
+      "description": "Click the **Home** link to navigate to the home page.",
+      "elementMeta": {
+        "tag": "a",
+        "cssSelector": "[href='\\/start\\/latest']",
+        "textContent": "Home",
+        "ariaLabel": null,
+        "placeholder": null,
+        "altText": null,
+        "name": null,
+        "role": "a",
+        "href": "https://tanstack.com/start/latest",
+        "inputType": null,
+        "dataTestId": null,
+        "rect": {
+          "x": 90.97500610351562,
+          "y": 52.000003814697266,
+          "width": 34.1583366394043,
+          "height": 40.000003814697266
+        },
+        "devicePixelRatio": 1.875,
+        "viewport": {
+          "width": 894,
+          "height": 648
+        },
+        "composedPath": [
+          {
+            "tag": "a",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "nav",
+            "role": null,
+            "name": "Documentation sections",
+            "attrs": {
+              "aria-label": "Documentation sections"
+            },
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 1
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 3
+          },
+          {
+            "tag": "body",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "html",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          }
+        ]
+      },
+      "screenshot": "docs/guides/assets/create-a-basic-react-tanstack-start-project/step-03.jpg",
+      "highlight": {
+        "x": 0.10176175179364164,
+        "y": 0.08024691946712541,
+        "width": 0.03820843024541868,
+        "height": 0.06172840094860689
+      }
+    },
+    {
+      "index": 4,
+      "action": "click",
+      "url": "https://tanstack.com/start/latest",
+      "description": "Click the **Theme: Auto. Switch to light mode.** button to change the theme.",
+      "elementMeta": {
+        "tag": "button",
+        "cssSelector": ".items-center.leading-none",
+        "textContent": null,
+        "ariaLabel": "Theme: Auto. Switch to light mode.",
+        "placeholder": null,
+        "altText": null,
+        "name": null,
+        "role": "button",
+        "href": null,
+        "inputType": null,
+        "dataTestId": null,
+        "rect": {
+          "x": 723.4666748046875,
+          "y": 11.733333587646484,
+          "width": 28.000001907348633,
+          "height": 28.000001907348633
+        },
+        "devicePixelRatio": 1.875,
+        "viewport": {
+          "width": 894,
+          "height": 648
+        },
+        "composedPath": [
+          {
+            "tag": "button",
+            "role": null,
+            "name": "Theme: Auto. Switch to light mode.",
+            "attrs": {
+              "title": "Theme: Auto. Switch to light mode.",
+              "aria-label": "Theme: Auto. Switch to light mode."
+            },
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 1
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "body",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "html",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          }
+        ]
+      },
+      "screenshot": "docs/guides/assets/create-a-basic-react-tanstack-start-project/step-04.jpg",
+      "highlight": {
+        "x": 0.8092468398262723,
+        "y": 0.01810699627723223,
+        "width": 0.03131991264804097,
+        "height": 0.04320987948664912
+      }
+    }
+  ],
+  "recording": {
+    "file": "recording.webm",
+    "durationMs": 13149,
+    "width": 1656,
+    "height": 1200,
+    "mime": "video/webm;codecs=vp9"
+  }
+}
