@@ -1,5 +1,12 @@
 {
   "version": 1,
+  "tabs": [
+    {
+      "id": "reasonable",
+      "label": "Reasonable",
+      "items": []
+    }
+  ],
   "sections": [
     {
       "label": "Guides",
