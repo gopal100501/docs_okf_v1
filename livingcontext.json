@@ -1,5 +1,12 @@
 {
   "version": 1,
+  "tabs": [
+    {
+      "id": "hi",
+      "label": "hi",
+      "items": []
+    }
+  ],
   "sections": [
     {
       "label": "Guides",
