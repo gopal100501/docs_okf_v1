@@ -1,0 +1,578 @@
+{
+  "version": 1,
+  "steps": {
+    "step-01.jpg": {
+      "zoom": {
+        "x": 0.5583243394848378,
+        "y": 0.039457461101941205
+      },
+      "level": 2,
+      "highlight": {
+        "x": 0.5314923952522476,
+        "y": 0.014858199988575663,
+        "width": 0.053663888465180554,
+        "height": 0.04919852222673108
+      },
+      "pixelRatio": 1.25
+    },
+    "step-02.jpg": {
+      "zoom": {
+        "x": 0.6342288005703244,
+        "y": 0.039457461101941205
+      },
+      "level": 2,
+      "highlight": {
+        "x": 0.593890846292109,
+        "y": 0.014858199988575663,
+        "width": 0.08067590855643075,
+        "height": 0.04919852222673108
+      },
+      "pixelRatio": 1.25
+    },
+    "step-03.jpg": {
+      "zoom": {
+        "x": 0.5835030322678167,
+        "y": 0.6755549163912433
+      },
+      "level": 2,
+      "highlight": {
+        "x": 0.5416486135181976,
+        "y": 0.6565660130962931,
+        "width": 0.08370883749923838,
+        "height": 0.03797780658990035
+      },
+      "pixelRatio": 1.25
+    },
+    "step-04.jpg": {
+      "zoom": {
+        "x": 0.5873700179921486,
+        "y": 0.7247842478252369
+      },
+      "level": 2,
+      "highlight": {
+        "x": 0.5416486135181976,
+        "y": 0.7057953445302867,
+        "width": 0.091442808947902,
+        "height": 0.03797780658990035
+      },
+      "pixelRatio": 1.25
+    }
+  },
+  "replay": [
+    {
+      "index": 1,
+      "action": "click",
+      "url": "chrome-extension://ipfeemaaiifbmpgpjhcnnlaipepfnncn/playground.html?guideId=9f3b88eb-8986-42ef-83ca-a2830fdadbce",
+      "description": "Click the **Learn** link.",
+      "elementMeta": {
+        "tag": "a",
+        "cssSelector": ".active\\:scale-95[href='\\/learn']",
+        "textContent": "Learn",
+        "ariaLabel": null,
+        "placeholder": null,
+        "altText": null,
+        "name": null,
+        "role": "a",
+        "href": "https://react.dev/learn",
+        "inputType": null,
+        "dataTestId": null,
+        "rect": {
+          "x": 613.3422241210938,
+          "y": 12.050000190734863,
+          "width": 61.92812728881836,
+          "height": 39.900001525878906
+        },
+        "devicePixelRatio": 1.25,
+        "viewport": {
+          "width": 1154,
+          "height": 811
+        },
+        "composedPath": [
+          {
+            "tag": "a",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 2
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "nav",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 1
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "body",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "html",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          }
+        ]
+      },
+      "screenshot": "docs/guides/assets/find-react-s-code-of-conduct/step-01.jpg",
+      "highlight": {
+        "x": 0.5314923952522476,
+        "y": 0.014858199988575663,
+        "width": 0.053663888465180554,
+        "height": 0.04919852222673108
+      }
+    },
+    {
+      "index": 2,
+      "action": "click",
+      "url": "https://react.dev/learn",
+      "description": "Click the **Reference** link.",
+      "elementMeta": {
+        "tag": "a",
+        "cssSelector": ".active\\:scale-95[href='\\/reference\\/react']",
+        "textContent": "Reference",
+        "ariaLabel": null,
+        "placeholder": null,
+        "altText": null,
+        "name": null,
+        "role": "a",
+        "href": "https://react.dev/reference/react",
+        "inputType": null,
+        "dataTestId": null,
+        "rect": {
+          "x": 685.3500366210938,
+          "y": 12.050000190734863,
+          "width": 93.0999984741211,
+          "height": 39.900001525878906
+        },
+        "devicePixelRatio": 1.25,
+        "viewport": {
+          "width": 1154,
+          "height": 811
+        },
+        "composedPath": [
+          {
+            "tag": "a",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 1
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 2
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "nav",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 1
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "body",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "html",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          }
+        ]
+      },
+      "screenshot": "docs/guides/assets/find-react-s-code-of-conduct/step-02.jpg",
+      "highlight": {
+        "x": 0.593890846292109,
+        "y": 0.014858199988575663,
+        "width": 0.08067590855643075,
+        "height": 0.04919852222673108
+      }
+    },
+    {
+      "index": 3,
+      "action": "click",
+      "url": "https://react.dev/reference/react",
+      "description": "Click the **Community** link in the Legacy APIs section.",
+      "elementMeta": {
+        "tag": "a",
+        "cssSelector": ".border-b[href='\\/community']",
+        "textContent": "Community",
+        "ariaLabel": null,
+        "placeholder": null,
+        "altText": null,
+        "name": null,
+        "role": "a",
+        "href": "https://react.dev/community",
+        "inputType": null,
+        "dataTestId": null,
+        "rect": {
+          "x": 625.0625,
+          "y": 532.4750366210938,
+          "width": 96.5999984741211,
+          "height": 30.80000114440918
+        },
+        "devicePixelRatio": 1.25,
+        "viewport": {
+          "width": 1154,
+          "height": 811
+        },
+        "composedPath": [
+          {
+            "tag": "a",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 3
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "footer",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 1
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "main",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 2
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "body",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "html",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          }
+        ]
+      },
+      "screenshot": "docs/guides/assets/find-react-s-code-of-conduct/step-03.jpg",
+      "highlight": {
+        "x": 0.5416486135181976,
+        "y": 0.6565660130962931,
+        "width": 0.08370883749923838,
+        "height": 0.03797780658990035
+      }
+    },
+    {
+      "index": 4,
+      "action": "click",
+      "url": "https://react.dev/community",
+      "description": "Click the **Code of Conduct** link.",
+      "elementMeta": {
+        "tag": "a",
+        "cssSelector": "[href='https\\:\\/\\/github\\.com\\/facebook\\/react\\/blob\\/main\\/CODE_OF_CONDUCT\\.md'][rel='noopener']",
+        "textContent": "Code of Conduct",
+        "ariaLabel": null,
+        "placeholder": null,
+        "altText": null,
+        "name": null,
+        "role": "a",
+        "href": "https://github.com/facebook/react/blob/main/CODE_OF_CONDUCT.md",
+        "inputType": null,
+        "dataTestId": null,
+        "rect": {
+          "x": 625.0625,
+          "y": 572.4000244140625,
+          "width": 105.5250015258789,
+          "height": 30.80000114440918
+        },
+        "devicePixelRatio": 1.25,
+        "viewport": {
+          "width": 1154,
+          "height": 811
+        },
+        "composedPath": [
+          {
+            "tag": "a",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 1
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 3
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "footer",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 1
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "main",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 2
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "body",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "html",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          }
+        ]
+      },
+      "screenshot": "docs/guides/assets/find-react-s-code-of-conduct/step-04.jpg",
+      "highlight": {
+        "x": 0.5416486135181976,
+        "y": 0.7057953445302867,
+        "width": 0.091442808947902,
+        "height": 0.03797780658990035
+      }
+    }
+  ],
+  "recording": {
+    "file": "recording.webm",
+    "durationMs": 12511,
+    "width": 1535,
+    "height": 960,
+    "mime": "video/webm;codecs=vp9"
+  }
+}
