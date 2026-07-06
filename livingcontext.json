@@ -10,6 +10,11 @@
       "id": "change-logs",
       "label": "Change logs",
       "items": []
+    },
+    {
+      "id": "explore",
+      "label": "Explore",
+      "items": []
     }
   ],
   "sections": [
