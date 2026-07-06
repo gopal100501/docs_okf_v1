@@ -7,5 +7,23 @@
         "README.md"
       ]
     }
-  ]
+  ],
+  "order": {
+    "": [
+      "changelog",
+      "docs",
+      "engineering",
+      "hr-people",
+      "it-security",
+      "onboarding",
+      "policies",
+      "temp",
+      "Diagram v2.drawio.svg",
+      "AGENTS.md",
+      "dar.excalidraw",
+      "excalidraw.excalidraw",
+      "index.mdx",
+      "page.mdx"
+    ]
+  }
 }
