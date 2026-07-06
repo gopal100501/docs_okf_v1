@@ -1,5 +1,22 @@
 {
   "version": 1,
+  "tabs": [
+    {
+      "id": "api-playbook",
+      "label": "API Playbook",
+      "items": []
+    },
+    {
+      "id": "change-logs",
+      "label": "Change logs",
+      "items": []
+    },
+    {
+      "id": "explore",
+      "label": "Explore",
+      "items": []
+    }
+  ],
   "sections": [
     {
       "label": "Guides",
