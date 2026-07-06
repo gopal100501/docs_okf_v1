@@ -5,7 +5,9 @@
   "elements": [],
   "appState": {
     "viewBackgroundColor": "#ffffff",
-    "gridSize": null
+    "gridSize": 20,
+    "name": "Untitled-2026-07-06-1033",
+    "theme": "light"
   },
   "files": {}
 }
