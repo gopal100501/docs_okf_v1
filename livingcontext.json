@@ -1,5 +1,12 @@
 {
   "version": 1,
+  "tabs": [
+    {
+      "id": "api-playbook",
+      "label": "API Playbook",
+      "items": []
+    }
+  ],
   "sections": [
     {
       "label": "Guides",
